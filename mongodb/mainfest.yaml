@@ -23,6 +23,6 @@ spec:
     name: mongodb
     tier: db
   ports:
-   - protocol: TCP
-     port: 27017
-     targetport: 27017
+    - protocol: TCP
+      port: 27017
+      targetport: 27017
